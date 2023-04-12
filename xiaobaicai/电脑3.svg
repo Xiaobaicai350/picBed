@@ -1,0 +1,754 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1024 1024" height="1024px" width="1024px">
+    <title>拓扑图图标/电脑3</title>
+    <defs>
+        <linearGradient id="linearGradient-1" y2="56.6399426%" x2="38.7459567%" y1="42.215781%" x1="62.1068623%">
+            <stop offset="0%" stop-color="#626262"></stop>
+            <stop offset="100%" stop-color="#333333"></stop>
+        </linearGradient>
+        <linearGradient id="linearGradient-2" y2="56.6399426%" x2="39.199676%" y1="42.215781%" x1="61.6187607%">
+            <stop offset="0%" stop-color="#626262"></stop>
+            <stop offset="100%" stop-color="#333333"></stop>
+        </linearGradient>
+        <linearGradient id="linearGradient-3" y2="37.9156914%" x2="39.0696826%" y1="24.9867339%" x1="60.7746556%">
+            <stop offset="0%" stop-opacity="0.306326486" stop-color="#414141"></stop>
+            <stop offset="100%" stop-color="#1F1E1E"></stop>
+        </linearGradient>
+        <linearGradient id="linearGradient-4" y2="100%" x2="50%" y1="0%" x1="50%">
+            <stop offset="0%" stop-color="#626262"></stop>
+            <stop offset="100%" stop-color="#333333"></stop>
+        </linearGradient>
+        <linearGradient id="linearGradient-5" y2="100%" x2="50%" y1="0%" x1="50%">
+            <stop offset="0%" stop-color="#626262"></stop>
+            <stop offset="100%" stop-color="#333333"></stop>
+        </linearGradient>
+        <path id="path-6" d="M4.06167629,1.53685049 L16.5616763,6.26658022 C17.7282464,6.70798512 18.5,7.8251523 18.5,9.07243899 L18.5,252.157291 C18.5,253.814145 17.1568542,255.157291 15.5,255.157291 C15.1372814,255.157291 14.7775694,255.091513 14.4383237,254.96315 L1.93832371,250.23342 C0.771753606,249.792015 -1.27258385e-14,248.674848 0,247.427561 L0,4.34270926 C2.41183085e-16,2.68585501 1.34314575,1.34270926 3,1.34270926 C3.36271855,1.34270926 3.72243062,1.40848726 4.06167629,1.53685049 Z"></path>
+        <filter id="filter-7" filterUnits="objectBoundingBox" height="105.5%" width="175.7%" y="-1.9%" x="-37.8%">
+            <feOffset result="shadowOffsetOuter1" in="SourceAlpha" dy="2" dx="0"></feOffset>
+            <feGaussianBlur result="shadowBlurOuter1" in="shadowOffsetOuter1" stdDeviation="2"></feGaussianBlur>
+            <feComposite result="shadowBlurOuter1" operator="out" in2="SourceAlpha" in="shadowBlurOuter1"></feComposite>
+            <feColorMatrix in="shadowBlurOuter1" type="matrix" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0"></feColorMatrix>
+        </filter>
+        <filter id="filter-8" filterUnits="objectBoundingBox" height="105.1%" width="170.3%" y="-1.8%" x="-35.1%">
+            <feGaussianBlur result="shadowBlurInner1" in="SourceAlpha" stdDeviation="1.5"></feGaussianBlur>
+            <feOffset result="shadowOffsetInner1" in="shadowBlurInner1" dy="2" dx="-2"></feOffset>
+            <feComposite result="shadowInnerInner1" k3="1" k2="-1" operator="arithmetic" in2="SourceAlpha" in="shadowOffsetInner1"></feComposite>
+            <feColorMatrix in="shadowInnerInner1" type="matrix" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.637538243 0"></feColorMatrix>
+        </filter>
+        <rect rx="3" height="32" width="8" y="100" x="5" id="path-9"></rect>
+        <filter id="filter-10" filterUnits="objectBoundingBox" height="143.8%" width="275.0%" y="-15.6%" x="-87.5%">
+            <feOffset result="shadowOffsetOuter1" in="SourceAlpha" dy="2" dx="0"></feOffset>
+            <feGaussianBlur result="shadowBlurOuter1" in="shadowOffsetOuter1" stdDeviation="2"></feGaussianBlur>
+            <feComposite result="shadowBlurOuter1" operator="out" in2="SourceAlpha" in="shadowBlurOuter1"></feComposite>
+            <feColorMatrix in="shadowBlurOuter1" type="matrix" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.107025787 0"></feColorMatrix>
+        </filter>
+        <rect rx="1" height="7" width="3" y="146" x="8" id="path-11"></rect>
+        <filter id="filter-12" filterUnits="objectBoundingBox" height="300.0%" width="566.7%" y="-71.4%" x="-233.3%">
+            <feOffset result="shadowOffsetOuter1" in="SourceAlpha" dy="2" dx="0"></feOffset>
+            <feGaussianBlur result="shadowBlurOuter1" in="shadowOffsetOuter1" stdDeviation="2"></feGaussianBlur>
+            <feComposite result="shadowBlurOuter1" operator="out" in2="SourceAlpha" in="shadowBlurOuter1"></feComposite>
+            <feColorMatrix in="shadowBlurOuter1" type="matrix" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.107025787 0"></feColorMatrix>
+        </filter>
+        <ellipse ry="2.5" rx="1.5" cy="67.5" cx="11.5" id="path-13"></ellipse>
+        <filter id="filter-14" filterUnits="objectBoundingBox" height="240.0%" width="333.3%" y="-50.0%" x="-150.0%">
+            <feOffset result="shadowOffsetOuter1" in="SourceAlpha" dy="1" dx="-1"></feOffset>
+            <feGaussianBlur result="shadowBlurOuter1" in="shadowOffsetOuter1" stdDeviation="1"></feGaussianBlur>
+            <feColorMatrix in="shadowBlurOuter1" type="matrix" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.219296329 0"></feColorMatrix>
+        </filter>
+        <ellipse ry="12" rx="8.5" cy="12" cx="8.5" id="path-15"></ellipse>
+        <filter id="filter-16" filterUnits="objectBoundingBox" height="175.0%" width="205.9%" y="-37.5%" x="-52.9%">
+            <feOffset result="shadowOffsetOuter1" in="SourceAlpha" dy="0" dx="0"></feOffset>
+            <feGaussianBlur result="shadowBlurOuter1" in="shadowOffsetOuter1" stdDeviation="3"></feGaussianBlur>
+            <feComposite result="shadowBlurOuter1" operator="out" in2="SourceAlpha" in="shadowBlurOuter1"></feComposite>
+            <feColorMatrix in="shadowBlurOuter1" type="matrix" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.199573864 0"></feColorMatrix>
+        </filter>
+        <filter id="filter-17" filterUnits="objectBoundingBox" height="158.3%" width="182.4%" y="-29.2%" x="-41.2%">
+            <feGaussianBlur result="shadowBlurInner1" in="SourceAlpha" stdDeviation="1"></feGaussianBlur>
+            <feOffset result="shadowOffsetInner1" in="shadowBlurInner1" dy="0" dx="0"></feOffset>
+            <feComposite result="shadowInnerInner1" k3="1" k2="-1" operator="arithmetic" in2="SourceAlpha" in="shadowOffsetInner1"></feComposite>
+            <feColorMatrix in="shadowInnerInner1" type="matrix" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.637538243 0"></feColorMatrix>
+        </filter>
+        <ellipse ry="7.5" rx="5" cy="7.5" cx="5" id="path-18"></ellipse>
+        <filter id="filter-19" filterUnits="objectBoundingBox" height="220.0%" width="280.0%" y="-60.0%" x="-90.0%">
+            <feOffset result="shadowOffsetOuter1" in="SourceAlpha" dy="0" dx="0"></feOffset>
+            <feGaussianBlur result="shadowBlurOuter1" in="shadowOffsetOuter1" stdDeviation="3"></feGaussianBlur>
+            <feColorMatrix in="shadowBlurOuter1" type="matrix" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.199573864 0"></feColorMatrix>
+        </filter>
+        <ellipse ry="5.45454545" rx="3.63636364" cy="7.5" cx="5" id="path-20"></ellipse>
+        <filter id="filter-21" filterUnits="objectBoundingBox" height="265.0%" width="347.5%" y="-82.5%" x="-123.7%">
+            <feOffset result="shadowOffsetOuter1" in="SourceAlpha" dy="0" dx="0"></feOffset>
+            <feGaussianBlur result="shadowBlurOuter1" in="shadowOffsetOuter1" stdDeviation="3"></feGaussianBlur>
+            <feComposite result="shadowBlurOuter1" operator="out" in2="SourceAlpha" in="shadowBlurOuter1"></feComposite>
+            <feColorMatrix in="shadowBlurOuter1" type="matrix" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.199573864 0"></feColorMatrix>
+        </filter>
+        <filter id="filter-22" filterUnits="objectBoundingBox" height="228.3%" width="292.5%" y="-64.2%" x="-96.2%">
+            <feGaussianBlur result="shadowBlurInner1" in="SourceAlpha" stdDeviation="1"></feGaussianBlur>
+            <feOffset result="shadowOffsetInner1" in="shadowBlurInner1" dy="0" dx="0"></feOffset>
+            <feComposite result="shadowInnerInner1" k3="1" k2="-1" operator="arithmetic" in2="SourceAlpha" in="shadowOffsetInner1"></feComposite>
+            <feColorMatrix in="shadowInnerInner1" type="matrix" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.637538243 0"></feColorMatrix>
+        </filter>
+        <rect rx="1.5" height="48" width="3" y="49" x="12" id="path-23"></rect>
+        <filter id="filter-24" filterUnits="objectBoundingBox" height="125.0%" width="500.0%" y="-12.5%" x="-200.0%">
+            <feOffset result="shadowOffsetOuter1" in="SourceAlpha" dy="0" dx="0"></feOffset>
+            <feGaussianBlur result="shadowBlurOuter1" in="shadowOffsetOuter1" stdDeviation="2"></feGaussianBlur>
+            <feColorMatrix in="shadowBlurOuter1" type="matrix" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.333287806 0"></feColorMatrix>
+        </filter>
+        <linearGradient id="linearGradient-25" y2="100%" x2="50%" y1="0%" x1="50%">
+            <stop offset="0%" stop-color="#000000"></stop>
+            <stop offset="100%" stop-color="#1E1C1C"></stop>
+        </linearGradient>
+        <linearGradient id="linearGradient-26" y2="100%" x2="50%" y1="0%" x1="50%">
+            <stop offset="0%" stop-color="#C8C8C8"></stop>
+            <stop offset="100%" stop-color="#979797"></stop>
+        </linearGradient>
+        <linearGradient id="linearGradient-27" y2="82.2289093%" x2="3.58118901%" y1="26.790737%" x1="100%">
+            <stop offset="0%" stop-color="#B4B5B8"></stop>
+            <stop offset="45.7932692%" stop-color="#85878B"></stop>
+            <stop offset="100%" stop-color="#66686C"></stop>
+        </linearGradient>
+        <ellipse ry="30.5" rx="18" cy="30.5" cx="18" id="path-28"></ellipse>
+        <filter id="filter-29" filterUnits="objectBoundingBox" height="129.5%" width="150.0%" y="-14.8%" x="-25.0%">
+            <feOffset result="shadowOffsetOuter1" in="SourceAlpha" dy="0" dx="0"></feOffset>
+            <feMorphology result="shadowInner" in="SourceAlpha" operator="erode" radius="3"></feMorphology>
+            <feOffset result="shadowInner" in="shadowInner" dy="0" dx="0"></feOffset>
+            <feComposite result="shadowOffsetOuter1" operator="out" in2="shadowInner" in="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur result="shadowBlurOuter1" in="shadowOffsetOuter1" stdDeviation="3"></feGaussianBlur>
+            <feColorMatrix in="shadowBlurOuter1" type="matrix" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.199573864 0"></feColorMatrix>
+        </filter>
+        <filter id="filter-30" filterUnits="objectBoundingBox" height="123.0%" width="138.9%" y="-11.5%" x="-19.4%">
+            <feGaussianBlur result="shadowBlurInner1" in="SourceAlpha" stdDeviation="1"></feGaussianBlur>
+            <feOffset result="shadowOffsetInner1" in="shadowBlurInner1" dy="0" dx="0"></feOffset>
+            <feComposite result="shadowInnerInner1" k3="1" k2="-1" operator="arithmetic" in2="SourceAlpha" in="shadowOffsetInner1"></feComposite>
+            <feColorMatrix in="shadowInnerInner1" type="matrix" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.637538243 0"></feColorMatrix>
+        </filter>
+        <linearGradient id="linearGradient-31" y2="0%" x2="50%" y1="100%" x1="50%">
+            <stop offset="0%" stop-color="#E3E6ED"></stop>
+            <stop offset="100%" stop-color="#DDE0E4"></stop>
+        </linearGradient>
+        <linearGradient id="linearGradient-32" y2="50%" x2="100%" y1="50%" x1="0.44798951%">
+            <stop offset="0%" stop-color="#AEAFB0"></stop>
+            <stop offset="50.4070149%" stop-color="#C6C9CE"></stop>
+            <stop offset="100%" stop-color="#ADADB1"></stop>
+        </linearGradient>
+        <linearGradient id="linearGradient-33" y2="50%" x2="0.44798951%" y1="50%" x1="98.1178977%">
+            <stop offset="0%" stop-color="#C2C3CA"></stop>
+            <stop offset="49.5301573%" stop-color="#B5B6B9"></stop>
+            <stop offset="100%" stop-color="#DDE0E4"></stop>
+        </linearGradient>
+        <linearGradient id="linearGradient-34" y2="50%" x2="100%" y1="50%" x1="0.44798951%">
+            <stop offset="0%" stop-color="#8B8D90"></stop>
+            <stop offset="50.1393138%" stop-color="#A5A9AD"></stop>
+            <stop offset="100%" stop-color="#97989B"></stop>
+        </linearGradient>
+        <linearGradient id="linearGradient-35" y2="38.1336375%" x2="49.2829436%" y1="97.4742774%" x1="49.2829436%">
+            <stop offset="0%" stop-color="#ADB0B3"></stop>
+            <stop offset="100%" stop-color="#8D8E90"></stop>
+        </linearGradient>
+        <linearGradient id="linearGradient-36" y2="70.0545686%" x2="37.5%" y1="50%" x1="77.6673061%">
+            <stop offset="0%" stop-color="#797979"></stop>
+            <stop offset="0%" stop-color="#97989B"></stop>
+            <stop offset="100%" stop-color="#6B6B6B"></stop>
+        </linearGradient>
+        <linearGradient id="linearGradient-37" y2="100%" x2="50%" y1="0%" x1="50%">
+            <stop offset="0%" stop-color="#454545"></stop>
+            <stop offset="100%" stop-color="#EEEEEE"></stop>
+        </linearGradient>
+        <linearGradient id="linearGradient-38" y2="100%" x2="54.6987205%" y1="0%" x1="41.7967548%">
+            <stop offset="0%" stop-color="#5CC1D5"></stop>
+            <stop offset="51.5692178%" stop-color="#55B7D0"></stop>
+            <stop offset="100%" stop-color="#2B74AE"></stop>
+        </linearGradient>
+        <polygon points="8 13.9794953 484.5 227.305994 484.5 539.479495 7.88431877 318.269716" id="path-39"></polygon>
+        <filter id="filter-40" filterUnits="objectBoundingBox" height="102.7%" width="102.9%" y="-1.3%" x="-1.5%">
+            <feGaussianBlur result="shadowBlurInner1" in="SourceAlpha" stdDeviation="7"></feGaussianBlur>
+            <feOffset result="shadowOffsetInner1" in="shadowBlurInner1" dy="0" dx="0"></feOffset>
+            <feComposite result="shadowInnerInner1" k3="1" k2="-1" operator="arithmetic" in2="SourceAlpha" in="shadowOffsetInner1"></feComposite>
+            <feColorMatrix in="shadowInnerInner1" type="matrix" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"></feColorMatrix>
+        </filter>
+        <linearGradient id="linearGradient-41" y2="50%" x2="98.1178977%" y1="50%" x1="0.44798951%">
+            <stop offset="0%" stop-color="#C2C3CA"></stop>
+            <stop offset="49.5301573%" stop-color="#AEAFB0"></stop>
+            <stop offset="100%" stop-color="#DDE0E4"></stop>
+        </linearGradient>
+        <linearGradient id="linearGradient-42" y2="50%" x2="98.1178977%" y1="50%" x1="0.44798951%">
+            <stop offset="0%" stop-color="#C2C3CA"></stop>
+            <stop offset="49.5301573%" stop-color="#AEAFB0"></stop>
+            <stop offset="100%" stop-color="#DDE0E4"></stop>
+        </linearGradient>
+        <linearGradient id="linearGradient-43" y2="100%" x2="50%" y1="0%" x1="50%">
+            <stop offset="0%" stop-color="#C1C1C1"></stop>
+            <stop offset="100%" stop-color="#D8D8D8"></stop>
+        </linearGradient>
+    </defs>
+    <g fill-rule="evenodd" fill="none" stroke-width="1" stroke="none" id="拓扑图图标/电脑3">
+        <polygon points="293.5 244 646 121 646 682 289 846.5" fill="url(#linearGradient-1)" id="路径-16"></polygon>
+        <path fill="url(#linearGradient-2)" stroke-width="2" stroke="url(#linearGradient-3)" id="路径-16备份-2" d="M639,136.415383 L639,678.355888 L305.25,829.947474 L305.25,254.706522 L639,136.415383 Z"></path>
+        <path fill="url(#linearGradient-4)" id="路径-16备份" d="M153,189 L483.411708,86.1173123 C485.762292,85.385394 488.264319,85.286261 490.665443,85.8299115 L646,121 L646,121 L294,245 L153,189 Z"></path>
+        <g transform="translate(150.000000, 187.214286)" id="编组-6">
+            <path fill="url(#linearGradient-5)" id="矩形" d="M5.4674053,2.15604524 L141.467405,55.7869976 C142.995618,56.3896411 144,57.8653701 144,59.508116 L144,654.35371 C144,656.562849 142.209139,658.35371 140,658.35371 C139.386547,658.35371 138.781313,658.212612 138.231105,657.941328 L2.23110459,590.885773 C0.865012141,590.212213 -5.04396417e-14,588.821273 0,587.298154 L0,5.87716358 C1.21639564e-14,3.66802458 1.790861,1.87716358 4,1.87716358 C4.50230682,1.87716358 5.00011952,1.97177332 5.4674053,2.15604524 Z"></path>
+            <path fill-rule="nonzero" fill="#858B91" id="形状结合" d="M9.11629885,14.4363551 C8.29828322,14.08927 7.6643211,14.1982791 7.20418731,14.7590438 C6.7747291,15.2768241 6.56,16.0817143 6.56,17.1737143 C6.56,18.2937143 6.7747291,19.2808241 7.21441251,20.1673823 C7.6643211,21.0862791 8.28805802,21.7149315 9.09584846,22.0576779 C9.77071136,22.3440231 10.3228719,22.3403055 10.7318797,22.051848 C11.1408875,21.7493906 11.4169678,21.1385318 11.5396702,20.2245945 L10.4660246,19.7690454 C10.3637727,20.8176598 9.91386409,21.186763 9.10607366,20.8440165 C8.63571467,20.6444426 8.28805802,20.2589315 8.05287853,19.7111445 C7.79724864,19.1406804 7.6745463,18.4446177 7.6745463,17.6326177 C7.6745463,16.8206177 7.79724864,16.2286804 8.06310372,15.8934831 C8.31873361,15.5399471 8.66639025,15.4634583 9.11629885,15.6543551 C9.48440588,15.8105433 9.78093655,16.0483617 10.0058909,16.3818101 C10.2308451,16.7012584 10.3739979,17.1259983 10.4455743,17.6463683 L11.5192198,18.1019174 C11.4169678,17.1625318 11.1511127,16.3777291 10.7421049,15.7561866 C10.3330971,15.1626441 9.79116175,14.7227002 9.11629885,14.4363551 Z M14.9037594,16.8919818 C14.1061942,16.5535739 13.4620069,16.6442444 12.9814227,17.1683319 C12.5008385,17.6784195 12.265659,18.4886325 12.265659,19.5946325 C12.265659,20.6866325 12.5008385,21.6964195 12.9711975,22.5959934 C13.4620069,23.5322444 14.1061942,24.1835739 14.9037594,24.5219818 C15.7013247,24.8603897 16.345512,24.7557192 16.8363214,24.2359702 C17.3066804,23.7355441 17.5418599,22.9253311 17.5418599,21.8333311 C17.5418599,20.7273311 17.2964552,19.7132056 16.8260962,18.7996317 C16.345512,17.8677192 15.7013247,17.2303897 14.9037594,16.8919818 Z M14.9037594,18.1099818 C15.404794,18.3225714 15.7933514,18.7534368 16.0796569,19.4209166 C16.3250616,19.9870421 16.447764,20.6411048 16.447764,21.3691048 C16.447764,22.0831048 16.3250616,22.6190421 16.0796569,22.9909166 C15.7933514,23.4014368 15.404794,23.5165714 14.9037594,23.3039818 C14.4027249,23.0913922 14.0141674,22.6465268 13.7380872,21.9973856 C13.4926825,21.4312601 13.3802053,20.7955359 13.3802053,20.0675359 C13.3802053,19.3395359 13.4926825,18.7852601 13.7380872,18.4273856 C14.0141674,17.9985268 14.4027249,17.8973922 14.9037594,18.1099818 Z M21.1104531,19.5254896 C20.5787429,19.2998843 20.0879335,19.4136333 19.6584753,19.9034137 L19.6584753,19.1054137 L18.5746046,18.645526 L18.5746046,25.883526 L19.6584753,26.3434137 L19.6584753,21.9894137 C19.6584753,21.4854137 19.7607273,21.0947993 19.9856816,20.8402477 C20.1901855,20.5630189 20.4764909,20.5024987 20.8241476,20.6500099 C21.5399113,20.9537093 21.9080183,21.6698975 21.9080183,22.8178975 L21.9080183,27.2978975 L22.991889,27.7577852 L22.991889,23.3057852 C22.991889,22.7737852 23.094141,22.3831709 23.2986449,22.1619421 C23.5031488,21.9407134 23.7485535,21.8908389 24.0553093,22.0209958 C24.4643171,22.1945383 24.771073,22.4506952 24.9551265,22.8087894 C25.13918,23.1528835 25.2312068,23.6259306 25.2312068,24.2139306 L25.2312068,28.7079306 L26.3150775,29.1678183 L26.3150775,24.4218183 C26.3150775,23.6098183 26.131024,22.8877241 25.7833674,22.250213 C25.4254855,21.5943633 24.9755769,21.1654665 24.4336416,20.9355226 C24.0757597,20.7836729 23.7792291,20.7418546 23.5338244,20.8197291 C23.2679693,20.8889264 23.0123394,21.1024624 22.7771599,21.4506754 C22.4499537,20.4998414 21.8875679,19.8552204 21.1104531,19.5254896 Z M30.1904266,23.3781337 C29.4746629,23.0744343 28.9225023,23.1901518 28.5543953,23.7479636 L28.5543953,22.8799636 L27.542101,22.4504458 L27.542101,32.4604458 L28.6259717,32.9203335 L28.6259717,29.0843335 C29.0554299,30.1065532 29.58714,30.7521585 30.2415526,31.0298265 C30.998217,31.3508802 31.6015035,31.2288554 32.0309617,30.655075 C32.4297444,30.124279 32.6342483,29.3290503 32.6342483,28.2650503 C32.6342483,27.1450503 32.4297444,26.162279 32.0207366,25.2887365 C31.570828,24.3418397 30.9675414,23.7078645 30.1904266,23.3781337 Z M30.0268234,24.5127167 C30.5585336,24.738322 30.947091,25.1551873 31.2027209,25.7956514 C31.4072248,26.3304227 31.519702,26.9941469 31.519702,27.7921469 C31.519702,28.5901469 31.3969996,29.1540841 31.1720453,29.5066357 C30.9164154,29.8741717 30.527858,29.9473063 29.9961479,29.721701 C29.58714,29.5481585 29.2599338,29.1853244 29.0145291,28.6471989 C28.7282236,28.0497192 28.5952961,27.3633178 28.5952961,26.5933178 L28.5952961,26.4673178 C28.5952961,25.7253178 28.7077732,25.171042 28.9327275,24.8184904 C29.1883574,24.4089545 29.5564645,24.3131428 30.0268234,24.5127167 Z M33.6567678,25.0449066 L33.6567678,29.5529066 C33.6567678,31.4989066 34.2907299,32.7478975 35.5688794,33.2902179 C36.2335171,33.5722245 36.7856776,33.4145069 37.2355862,32.8214037 L37.2355862,33.8014037 L38.3194569,34.2612914 L38.3194569,27.0232914 L37.2355862,26.5634037 L37.2355862,30.9874037 C37.1435594,31.4803566 36.9697311,31.840601 36.7243264,32.0584755 C36.4789217,32.26235 36.2232919,32.3218859 35.9369864,32.2004062 C35.5177534,32.0225251 35.2109975,31.7383682 35.026944,31.380274 C34.8326653,31.0178413 34.7406385,30.5307943 34.7406385,29.9147943 L34.7406385,25.5047943 L33.6567678,25.0449066 Z M41.1620612,25.8914119 L40.0781905,26.0475242 L40.0781905,27.7695242 L39.0965718,27.3530222 L39.0965718,28.5850222 L40.0781905,29.0015242 L40.0781905,33.2015242 C40.0781905,33.7755242 40.1702173,34.2485713 40.3747212,34.6433426 C40.5792251,35.0521138 40.9166566,35.3632864 41.3665651,35.5541832 L42.2357068,35.922961 L42.2357068,34.690961 L41.5403935,34.3959388 C41.4074659,34.3395374 41.3154392,34.2444904 41.254088,34.134459 C41.1927368,34.0104276 41.1620612,33.8574119 41.1620612,33.6614119 L41.1620612,29.4614119 L42.3686343,29.9733624 L42.3686343,28.7413624 L41.1620612,28.2294119 L41.1620612,25.8914119 Z M45.4770937,29.8642856 C44.6999788,29.5345548 44.0762419,29.6339024 43.6263333,30.1850056 C43.1559743,30.7134317 42.93102,31.5139833 42.93102,32.5919833 C42.93102,33.7819833 43.1764247,34.8241089 43.6672341,35.7323599 C44.1171427,36.5812567 44.7408796,37.181909 45.5179945,37.5116398 C46.223533,37.8110007 46.8063691,37.7782988 47.2665029,37.4275341 C47.6346099,37.1357224 47.8697894,36.6615093 47.9924918,36.0415721 L46.9086211,35.5816844 C46.7654683,35.9409445 46.6120904,36.1978661 46.4280369,36.3157719 C46.1928574,36.453985 45.8861015,36.4498281 45.5077693,36.2893012 C45.0783111,36.1070816 44.7408796,35.767909 44.4954749,35.2997835 C44.2500703,34.817658 44.1171427,34.2152567 44.0762419,33.4979024 L48.0845185,35.1986192 C48.0742933,33.9062806 47.8595642,32.8071708 47.4505564,31.9056282 C47.0006478,30.9027315 46.3360101,30.2287249 45.4770937,29.8642856 Z M45.5077693,31.0953012 C46.3666857,31.4597405 46.8472699,32.293653 46.9495218,33.5970386 L44.0966923,32.3865795 C44.1580435,31.7966109 44.3114214,31.3996894 44.5363757,31.1731377 C44.7817804,30.9412633 45.0987615,30.9217587 45.5077693,31.0953012 Z M51.458833,32.402345 C51.1316268,32.263511 50.8453213,32.2680312 50.5999166,32.4439057 C50.3954127,32.5531344 50.2215844,32.7733788 50.0886568,33.1089775 L50.0886568,32.0169775 L49.0047861,31.5570898 L49.0047861,38.7950898 L50.0886568,39.2549775 L50.0886568,35.4189775 C50.0886568,34.7889775 50.2215844,34.3273788 50.4976646,34.0525201 C50.7532945,33.7969841 51.0498252,33.7408025 51.3770314,33.8796365 C51.6224361,33.983762 51.878066,34.1342261 52.1439211,34.3590287 L52.1439211,32.8750287 C51.9598676,32.6709346 51.7246881,32.5151476 51.458833,32.402345 Z"></path>
+            <g transform="translate(60.000000, 47.785714)" id="编组-2">
+                <g id="矩形">
+                    <use xlink:href="#path-6" filter="url(#filter-7)" fill-opacity="1" fill="black"></use>
+                    <use xlink:href="#path-6" fill-rule="evenodd" fill="#3F3F3F"></use>
+                    <use xlink:href="#path-6" filter="url(#filter-8)" fill-opacity="1" fill="black"></use>
+                    <path stroke-linejoin="square" d="M2.999,2.092 L3.20340179,2.10192188 C3.40597158,2.12030969 3.60543153,2.16611087 3.79625722,2.23831518 L16.2962572,6.96804491 C16.733721,7.13357175 17.0971567,7.42580402 17.3512265,7.7935877 C17.6052962,8.16137138 17.75,8.60470648 17.75,9.07243899 L17.75,252.157291 C17.75,252.778611 17.4981602,253.341111 17.0909903,253.748281 C16.6838203,254.155451 16.1213203,254.407291 15.5,254.407291 C15.2279611,254.407291 14.958177,254.357957 14.7037428,254.261685 L2.20374278,249.531955 C1.76627899,249.366428 1.4028433,249.074196 1.14877355,248.706412 C0.894703801,248.338629 0.75,247.895294 0.75,247.427561 L0.75,4.34270926 C0.75,3.72138892 1.00183983,3.15888892 1.40900974,2.751719 C1.81617966,2.34454909 2.37867966,2.09270926 3,2.09270926 L2.999,2.092 Z" stroke-width="1.5" stroke="#0A0A0A"></path>
+                </g>
+                <g id="矩形备份-13">
+                    <use xlink:href="#path-9" filter="url(#filter-10)" fill-opacity="1" fill="black"></use>
+                    <rect rx="3" height="31" width="7" y="100.5" x="5.5" fill-rule="evenodd" fill="#3F3F3F" stroke-linejoin="square" stroke-width="1" stroke="#0A0A0A"></rect>
+                </g>
+                <g id="矩形备份-14">
+                    <use xlink:href="#path-11" filter="url(#filter-12)" fill-opacity="1" fill="black"></use>
+                    <rect rx="1" height="6" width="2" y="146.5" x="8.5" fill-rule="evenodd" fill="#8C8C8C" stroke-linejoin="square" stroke-width="1" stroke="#0A0A0A"></rect>
+                </g>
+                <g id="椭圆形">
+                    <use xlink:href="#path-13" filter="url(#filter-14)" fill-opacity="1" fill="black"></use>
+                    <use xlink:href="#path-13" fill-rule="evenodd" fill="#1F1F1F"></use>
+                </g>
+            </g>
+            <g transform="translate(104.000000, 107.785714)" id="编组-8">
+                <g id="编组-7">
+                    <g id="椭圆形">
+                        <use xlink:href="#path-15" filter="url(#filter-16)" fill-opacity="1" fill="black"></use>
+                        <use xlink:href="#path-15" fill-rule="evenodd" fill="#3F3F3F"></use>
+                        <use xlink:href="#path-15" filter="url(#filter-17)" fill-opacity="1" fill="black"></use>
+                        <ellipse ry="11.5" rx="8" cy="12" cx="8.5" stroke-linejoin="square" stroke-width="1" stroke="#0A0A0A"></ellipse>
+                    </g>
+                    <rect height="11.3333333" width="1" y="1.33333333" x="8" fill="#D8D8D8" id="矩形"></rect>
+                </g>
+                <g transform="translate(9.000000, 108.000000)" id="编组-3">
+                    <g id="椭圆形备份-3">
+                        <use xlink:href="#path-18" filter="url(#filter-19)" fill-opacity="1" fill="black"></use>
+                        <use xlink:href="#path-18" fill-rule="evenodd" fill="#1E1C1C"></use>
+                    </g>
+                    <g id="椭圆形备份-4">
+                        <use xlink:href="#path-20" filter="url(#filter-21)" fill-opacity="1" fill="black"></use>
+                        <use xlink:href="#path-20" fill-rule="evenodd" fill="#1E1C1C"></use>
+                        <use xlink:href="#path-20" filter="url(#filter-22)" fill-opacity="1" fill="black"></use>
+                        <ellipse ry="4.45454545" rx="2.63636364" cy="7.5" cx="5" stroke-linejoin="square" stroke-width="2" stroke="#5E5E5E"></ellipse>
+                    </g>
+                </g>
+                <g id="矩形">
+                    <use xlink:href="#path-23" filter="url(#filter-24)" fill-opacity="1" fill="black"></use>
+                    <use xlink:href="#path-23" fill-rule="evenodd" fill="#1E1C1C"></use>
+                </g>
+                <g transform="translate(11.000000, 134.000000)" id="编组-41">
+                    <rect rx="3.5" height="26" width="7" y="0" x="0" fill="#1E1C1C" id="矩形"></rect>
+                    <rect rx="2.5" height="22" width="5" y="2.5" x="1.5" fill="url(#linearGradient-25)" stroke="url(#linearGradient-26)" id="矩形备份-54"></rect>
+                    <g fill="#4192D4" transform="translate(2.000000, 4.000000)" id="编组-15">
+                        <rect height="18" width="1.33333333" y="0" x="0" id="矩形"></rect>
+                        <rect height="1.38461538" width="1" y="0" x="1" id="矩形备份-55"></rect>
+                        <rect height="1.38461538" width="1" y="6.23076923" x="1" id="矩形备份-58"></rect>
+                        <rect height="1.38461538" width="1" y="12.4615385" x="1" id="矩形备份-61"></rect>
+                        <rect height="1.38461538" width="1" y="2.07692308" x="1" id="矩形备份-56"></rect>
+                        <rect height="1.38461538" width="1" y="8.30769231" x="1" id="矩形备份-59"></rect>
+                        <rect height="1.38461538" width="1" y="14.5384615" x="1" id="矩形备份-62"></rect>
+                        <rect height="1.38461538" width="1" y="4.15384615" x="1" id="矩形备份-57"></rect>
+                        <rect height="1.38461538" width="1" y="10.3846154" x="1" id="矩形备份-60"></rect>
+                        <rect height="1.38461538" width="1" y="16.6153846" x="1" id="矩形备份-63"></rect>
+                    </g>
+                </g>
+                <g transform="translate(11.000000, 165.000000)" id="编组-41备份">
+                    <rect rx="3.5" height="26" width="7" y="0" x="0" fill="#1E1C1C" id="矩形"></rect>
+                    <rect rx="2.5" height="22" width="5" y="2.5" x="1.5" fill="url(#linearGradient-25)" stroke="url(#linearGradient-26)" id="矩形备份-54"></rect>
+                    <g fill="#4192D4" transform="translate(2.000000, 4.000000)" id="编组-15">
+                        <rect height="18" width="1.33333333" y="0" x="0" id="矩形"></rect>
+                        <rect height="1.38461538" width="1" y="0" x="1" id="矩形备份-55"></rect>
+                        <rect height="1.38461538" width="1" y="6.23076923" x="1" id="矩形备份-58"></rect>
+                        <rect height="1.38461538" width="1" y="12.4615385" x="1" id="矩形备份-61"></rect>
+                        <rect height="1.38461538" width="1" y="2.07692308" x="1" id="矩形备份-56"></rect>
+                        <rect height="1.38461538" width="1" y="8.30769231" x="1" id="矩形备份-59"></rect>
+                        <rect height="1.38461538" width="1" y="14.5384615" x="1" id="矩形备份-62"></rect>
+                        <rect height="1.38461538" width="1" y="4.15384615" x="1" id="矩形备份-57"></rect>
+                        <rect height="1.38461538" width="1" y="10.3846154" x="1" id="矩形备份-60"></rect>
+                        <rect height="1.38461538" width="1" y="16.6153846" x="1" id="矩形备份-63"></rect>
+                    </g>
+                </g>
+            </g>
+            <g fill="#1E1C1C" transform="translate(3.000000, 314.785714)" id="编组-5">
+                <g id="编组-4">
+                    <rect height="12" width="3.50847458" y="6" x="0" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="53" x="0" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="22" x="0" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="69" x="0" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="37" x="0" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="84" x="0" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="99" x="0" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="146" x="0" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="115" x="0" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="162" x="0" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="130" x="0" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="177" x="0" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="192" x="0" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="239" x="0" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="208" x="0" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="255" x="0" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="223" x="0" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="0" x="5.84745763" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="47" x="5.84745763" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="16" x="5.84745763" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="63" x="5.84745763" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="31" x="5.84745763" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="78" x="5.84745763" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="93" x="5.84745763" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="140" x="5.84745763" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="109" x="5.84745763" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="156" x="5.84745763" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="124" x="5.84745763" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="171" x="5.84745763" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="186" x="5.84745763" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="233" x="5.84745763" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="202" x="5.84745763" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="249" x="5.84745763" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="264" x="5.84745763" id="矩形备份-20"></rect>
+                    <rect height="12" width="3.50847458" y="217" x="5.84745763" id="矩形备份-16"></rect>
+                </g>
+                <g transform="translate(46.779661, 23.000000)" id="编组-4备份-4">
+                    <rect height="12" width="3.50847458" y="6" x="0" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="53" x="0" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="22" x="0" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="69" x="0" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="37" x="0" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="84" x="0" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="99" x="0" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="146" x="0" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="115" x="0" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="162" x="0" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="130" x="0" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="177" x="0" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="192" x="0" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="239" x="0" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="208" x="0" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="255" x="0" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="223" x="0" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="0" x="5.84745763" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="47" x="5.84745763" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="16" x="5.84745763" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="63" x="5.84745763" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="31" x="5.84745763" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="78" x="5.84745763" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="93" x="5.84745763" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="140" x="5.84745763" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="109" x="5.84745763" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="156" x="5.84745763" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="124" x="5.84745763" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="171" x="5.84745763" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="186" x="5.84745763" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="233" x="5.84745763" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="202" x="5.84745763" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="249" x="5.84745763" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="264" x="5.84745763" id="矩形备份-20"></rect>
+                    <rect height="12" width="3.50847458" y="217" x="5.84745763" id="矩形备份-16"></rect>
+                </g>
+                <g transform="translate(93.559322, 46.000000)" id="编组-4备份-8">
+                    <rect height="12" width="3.50847458" y="6" x="0" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="53" x="0" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="22" x="0" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="69" x="0" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="37" x="0" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="84" x="0" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="99" x="0" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="146" x="0" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="115" x="0" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="162" x="0" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="130" x="0" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="177" x="0" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="192" x="0" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="239" x="0" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="208" x="0" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="255" x="0" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="223" x="0" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="0" x="5.84745763" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="47" x="5.84745763" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="16" x="5.84745763" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="63" x="5.84745763" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="31" x="5.84745763" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="78" x="5.84745763" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="93" x="5.84745763" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="140" x="5.84745763" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="109" x="5.84745763" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="156" x="5.84745763" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="124" x="5.84745763" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="171" x="5.84745763" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="186" x="5.84745763" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="233" x="5.84745763" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="202" x="5.84745763" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="249" x="5.84745763" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="264" x="5.84745763" id="矩形备份-20"></rect>
+                    <rect height="12" width="3.50847458" y="217" x="5.84745763" id="矩形备份-16"></rect>
+                </g>
+                <g transform="translate(23.389831, 12.000000)" id="编组-4备份-2">
+                    <rect height="12" width="3.50847458" y="6" x="0" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="53" x="0" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="22" x="0" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="69" x="0" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="37" x="0" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="84" x="0" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="99" x="0" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="146" x="0" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="115" x="0" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="162" x="0" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="130" x="0" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="177" x="0" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="192" x="0" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="239" x="0" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="208" x="0" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="255" x="0" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="223" x="0" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="0" x="5.84745763" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="47" x="5.84745763" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="16" x="5.84745763" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="63" x="5.84745763" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="31" x="5.84745763" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="78" x="5.84745763" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="93" x="5.84745763" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="140" x="5.84745763" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="109" x="5.84745763" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="156" x="5.84745763" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="124" x="5.84745763" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="171" x="5.84745763" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="186" x="5.84745763" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="233" x="5.84745763" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="202" x="5.84745763" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="249" x="5.84745763" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="264" x="5.84745763" id="矩形备份-20"></rect>
+                    <rect height="12" width="3.50847458" y="217" x="5.84745763" id="矩形备份-16"></rect>
+                </g>
+                <g transform="translate(70.169492, 34.000000)" id="编组-4备份-5">
+                    <rect height="12" width="3.50847458" y="6" x="0" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="53" x="0" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="22" x="0" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="69" x="0" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="37" x="0" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="84" x="0" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="99" x="0" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="146" x="0" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="115" x="0" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="162" x="0" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="130" x="0" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="177" x="0" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="192" x="0" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="239" x="0" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="208" x="0" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="255" x="0" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="223" x="0" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="0" x="5.84745763" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="47" x="5.84745763" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="16" x="5.84745763" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="63" x="5.84745763" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="31" x="5.84745763" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="78" x="5.84745763" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="93" x="5.84745763" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="140" x="5.84745763" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="109" x="5.84745763" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="156" x="5.84745763" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="124" x="5.84745763" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="171" x="5.84745763" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="186" x="5.84745763" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="233" x="5.84745763" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="202" x="5.84745763" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="249" x="5.84745763" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="264" x="5.84745763" id="矩形备份-20"></rect>
+                    <rect height="12" width="3.50847458" y="217" x="5.84745763" id="矩形备份-16"></rect>
+                </g>
+                <g transform="translate(116.949153, 58.000000)" id="编组-4备份-9">
+                    <rect height="12" width="3.50847458" y="6" x="0" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="53" x="0" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="22" x="0" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="69" x="0" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="37" x="0" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="84" x="0" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="99" x="0" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="146" x="0" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="115" x="0" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="162" x="0" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="130" x="0" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="177" x="0" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="192" x="0" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="239" x="0" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="208" x="0" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="255" x="0" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="223" x="0" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="0" x="5.84745763" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="47" x="5.84745763" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="16" x="5.84745763" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="63" x="5.84745763" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="31" x="5.84745763" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="78" x="5.84745763" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="93" x="5.84745763" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="140" x="5.84745763" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="109" x="5.84745763" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="156" x="5.84745763" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="124" x="5.84745763" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="171" x="5.84745763" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="186" x="5.84745763" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="233" x="5.84745763" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="202" x="5.84745763" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="249" x="5.84745763" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="264" x="5.84745763" id="矩形备份-20"></rect>
+                    <rect height="12" width="3.50847458" y="217" x="5.84745763" id="矩形备份-16"></rect>
+                </g>
+                <g transform="translate(11.694915, 7.000000)" id="编组-4备份">
+                    <rect height="12" width="3.50847458" y="6" x="0" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="53" x="0" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="22" x="0" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="69" x="0" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="37" x="0" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="84" x="0" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="99" x="0" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="146" x="0" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="115" x="0" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="162" x="0" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="130" x="0" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="177" x="0" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="192" x="0" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="239" x="0" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="208" x="0" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="255" x="0" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="223" x="0" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="0" x="5.84745763" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="47" x="5.84745763" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="16" x="5.84745763" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="63" x="5.84745763" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="31" x="5.84745763" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="78" x="5.84745763" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="93" x="5.84745763" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="140" x="5.84745763" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="109" x="5.84745763" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="156" x="5.84745763" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="124" x="5.84745763" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="171" x="5.84745763" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="186" x="5.84745763" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="233" x="5.84745763" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="202" x="5.84745763" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="249" x="5.84745763" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="264" x="5.84745763" id="矩形备份-20"></rect>
+                    <rect height="12" width="3.50847458" y="217" x="5.84745763" id="矩形备份-16"></rect>
+                </g>
+                <g transform="translate(58.474576, 28.000000)" id="编组-4备份-6">
+                    <rect height="12" width="3.50847458" y="6" x="0" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="53" x="0" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="22" x="0" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="69" x="0" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="37" x="0" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="84" x="0" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="99" x="0" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="146" x="0" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="115" x="0" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="162" x="0" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="130" x="0" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="177" x="0" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="192" x="0" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="239" x="0" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="208" x="0" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="255" x="0" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="223" x="0" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="0" x="5.84745763" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="47" x="5.84745763" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="16" x="5.84745763" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="63" x="5.84745763" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="31" x="5.84745763" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="78" x="5.84745763" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="93" x="5.84745763" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="140" x="5.84745763" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="109" x="5.84745763" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="156" x="5.84745763" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="124" x="5.84745763" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="171" x="5.84745763" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="186" x="5.84745763" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="233" x="5.84745763" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="202" x="5.84745763" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="249" x="5.84745763" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="264" x="5.84745763" id="矩形备份-20"></rect>
+                    <rect height="12" width="3.50847458" y="217" x="5.84745763" id="矩形备份-16"></rect>
+                </g>
+                <g transform="translate(105.254237, 52.000000)" id="编组-4备份-10">
+                    <rect height="12" width="3.50847458" y="6" x="0" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="53" x="0" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="22" x="0" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="69" x="0" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="37" x="0" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="84" x="0" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="99" x="0" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="146" x="0" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="115" x="0" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="162" x="0" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="130" x="0" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="177" x="0" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="192" x="0" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="239" x="0" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="208" x="0" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="255" x="0" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="223" x="0" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="0" x="5.84745763" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="47" x="5.84745763" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="16" x="5.84745763" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="63" x="5.84745763" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="31" x="5.84745763" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="78" x="5.84745763" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="93" x="5.84745763" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="140" x="5.84745763" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="109" x="5.84745763" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="156" x="5.84745763" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="124" x="5.84745763" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="171" x="5.84745763" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="186" x="5.84745763" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="233" x="5.84745763" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="202" x="5.84745763" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="249" x="5.84745763" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="264" x="5.84745763" id="矩形备份-20"></rect>
+                    <rect height="12" width="3.50847458" y="217" x="5.84745763" id="矩形备份-16"></rect>
+                </g>
+                <g transform="translate(35.084746, 18.000000)" id="编组-4备份-3">
+                    <rect height="12" width="3.50847458" y="6" x="0" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="53" x="0" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="22" x="0" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="69" x="0" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="37" x="0" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="84" x="0" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="99" x="0" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="146" x="0" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="115" x="0" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="162" x="0" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="130" x="0" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="177" x="0" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="192" x="0" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="239" x="0" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="208" x="0" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="255" x="0" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="223" x="0" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="0" x="5.84745763" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="47" x="5.84745763" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="16" x="5.84745763" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="63" x="5.84745763" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="31" x="5.84745763" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="78" x="5.84745763" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="93" x="5.84745763" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="140" x="5.84745763" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="109" x="5.84745763" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="156" x="5.84745763" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="124" x="5.84745763" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="171" x="5.84745763" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="186" x="5.84745763" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="233" x="5.84745763" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="202" x="5.84745763" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="249" x="5.84745763" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="264" x="5.84745763" id="矩形备份-20"></rect>
+                    <rect height="12" width="3.50847458" y="217" x="5.84745763" id="矩形备份-16"></rect>
+                </g>
+                <g transform="translate(81.864407, 40.000000)" id="编组-4备份-7">
+                    <rect height="12" width="3.50847458" y="6" x="0" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="53" x="0" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="22" x="0" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="69" x="0" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="37" x="0" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="84" x="0" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="99" x="0" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="146" x="0" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="115" x="0" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="162" x="0" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="130" x="0" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="177" x="0" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="192" x="0" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="239" x="0" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="208" x="0" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="255" x="0" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="223" x="0" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="0" x="5.84745763" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="47" x="5.84745763" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="16" x="5.84745763" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="63" x="5.84745763" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="31" x="5.84745763" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="78" x="5.84745763" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="93" x="5.84745763" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="140" x="5.84745763" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="109" x="5.84745763" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="156" x="5.84745763" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="124" x="5.84745763" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="171" x="5.84745763" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="186" x="5.84745763" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="233" x="5.84745763" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="202" x="5.84745763" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="249" x="5.84745763" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="264" x="5.84745763" id="矩形备份-20"></rect>
+                    <rect height="12" width="3.50847458" y="217" x="5.84745763" id="矩形备份-16"></rect>
+                </g>
+                <g transform="translate(128.644068, 63.000000)" id="编组-4备份-11">
+                    <rect height="12" width="3.50847458" y="6" x="0" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="53" x="0" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="22" x="0" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="69" x="0" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="37" x="0" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="84" x="0" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="99" x="0" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="146" x="0" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="115" x="0" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="162" x="0" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="130" x="0" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="177" x="0" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="192" x="0" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="239" x="0" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="208" x="0" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="255" x="0" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="223" x="0" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="0" x="5.84745763" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="47" x="5.84745763" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="16" x="5.84745763" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="63" x="5.84745763" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="31" x="5.84745763" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="78" x="5.84745763" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="93" x="5.84745763" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="140" x="5.84745763" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="109" x="5.84745763" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="156" x="5.84745763" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="124" x="5.84745763" id="矩形备份-16"></rect>
+                    <rect height="12" width="3.50847458" y="171" x="5.84745763" id="矩形备份-19"></rect>
+                    <rect height="12" width="3.50847458" y="186" x="5.84745763" id="矩形"></rect>
+                    <rect height="12" width="3.50847458" y="233" x="5.84745763" id="矩形备份-17"></rect>
+                    <rect height="12" width="3.50847458" y="202" x="5.84745763" id="矩形备份-15"></rect>
+                    <rect height="12" width="3.50847458" y="249" x="5.84745763" id="矩形备份-18"></rect>
+                    <rect height="12" width="3.50847458" y="264" x="5.84745763" id="矩形备份-20"></rect>
+                    <rect height="12" width="3.50847458" y="217" x="5.84745763" id="矩形备份-16"></rect>
+                </g>
+            </g>
+            <polygon points="0 307.785714 144 365.785714 144 450.785714 0 389.785714" fill="url(#linearGradient-27)" id="矩形"></polygon>
+            <g transform="translate(11.000000, 332.785714)" id="编组-9">
+                <g id="椭圆形备份-5">
+                    <use xlink:href="#path-28" filter="url(#filter-29)" fill-opacity="1" fill="black"></use>
+                    <use xlink:href="#path-28" filter="url(#filter-30)" fill-opacity="1" fill="black"></use>
+                    <ellipse ry="29" rx="16.5" cy="30.5" cx="18" stroke-linejoin="square" stroke-width="3" stroke="#0A0A0A"></ellipse>
+                </g>
+                <polyline points="8.5 19 10.5 43 16.9899139 26.6874501 21.6289192 47.3092705 28 17.5" stroke-width="3" stroke="#000000" id="路径-35"></polyline>
+            </g>
+        </g>
+        <g transform="translate(459.000000, 280.520505)" id="编组-42">
+            <g transform="translate(86.000000, 456.979495)" id="编组">
+                <polygon points="78 0 273.046676 87.4574132 208 132 2.27373675e-13 34" fill="url(#linearGradient-31)" id="矩形备份-4"></polygon>
+                <polygon points="2.70266528e-13 34 208 131.342271 273 87.5 273 95.5 208 139 2.70266528e-13 40.6577287" fill="url(#linearGradient-32)" id="矩形备份-5"></polygon>
+            </g>
+            <g transform="translate(196.000000, 351.479495)" id="编组-20">
+                <path fill="url(#linearGradient-33)" id="形状结合" d="M52,0 L52,174 L0,148.5 L0,0 L52,0 Z M25.5,66.7352941 C16.3873016,66.7352941 9,78.152033 9,92.2352941 C9,106.318555 16.3873016,117.735294 25.5,117.735294 C34.6126984,117.735294 42,106.318555 42,92.2352941 C42,78.152033 34.6126984,66.7352941 25.5,66.7352941 Z"></path>
+                <polygon points="0 148.5 52 173 52 191 0 166" fill="url(#linearGradient-34)" id="矩形备份-2"></polygon>
+                <polygon points="52 25 63 25 63 169 52 173" fill="url(#linearGradient-35)" id="矩形备份-2"></polygon>
+                <polygon points="52 173 63 169 63 186.5 52 191" fill="url(#linearGradient-36)" id="矩形备份-64"></polygon>
+                <path fill="url(#linearGradient-37)" id="形状结合" d="M25.5,64 C25.7562316,64 26.011099,64.0099113 26.2644765,64.0295203 C18.3219757,64.6684822 12,75.6037606 12,89 C12,102.807119 18.7157288,114 27,114 C34.9921547,114 41.5244352,103.582559 41.9751751,90.4504552 C41.9916479,90.963375 42,91.4800323 42,92 C42,107.463973 34.6126984,120 25.5,120 C16.3873016,120 9,107.463973 9,92 C9,76.536027 16.3873016,64 25.5,64 Z"></path>
+            </g>
+            <g id="编组-19">
+                <polygon points="0 2.47949527 492.5 224.479495 492.5 557.479495 0 327.845426" fill="#040601" id="矩形"></polygon>
+                <g id="矩形备份">
+                    <use xlink:href="#path-39" fill-rule="evenodd" fill="url(#linearGradient-38)"></use>
+                    <use xlink:href="#path-39" filter="url(#filter-40)" fill-opacity="1" fill="black"></use>
+                </g>
+                <polygon points="251 122.979495 484.596401 227.096215 484.596401 539.269716" opacity="0.404482887" fill="#56DFE4" id="矩形备份-9"></polygon>
+                <polygon points="7.88431877 13.9794953 246.5 122.819401 246.384319 428.479495" transform="translate(127.192159, 221.229495) scale(-1, -1) translate(-127.192159, -221.229495)" opacity="0.352376302" fill="#509CCB" id="矩形备份-10"></polygon>
+                <polygon points="302 145.479495 484.596401 227.096215 484.596401 467.192215" opacity="0.404482887" fill="#56DFE4" id="矩形备份-8"></polygon>
+                <polygon points="7.88431877 78.9746416 196.5 165.314547 196.5 405.979495" transform="translate(102.192159, 242.477068) scale(-1, -1) translate(-102.192159, -242.477068)" opacity="0.352376302" fill="#509CCB" id="矩形备份-11"></polygon>
+                <polygon points="352.5 167.979495 484.596401 227.096215 484.596401 402.419866" fill="#56DFE4" id="矩形备份-7"></polygon>
+                <polygon points="7.88431877 143.412315 155 210.240385 155 385.979495" transform="translate(81.442159, 264.695905) scale(-1, -1) translate(-81.442159, -264.695905)" fill="#509CCB" id="矩形备份-12"></polygon>
+                <polygon points="0 327.845426 492.5 557.020505 504 552.479495 504 555.479495 492.5 559.979495 0 330.804416" fill="url(#linearGradient-41)" id="矩形备份-3"></polygon>
+                <polygon points="9.5 7.97511373e-13 504 219.979495 492.5 224.479495 0 2.47949527" fill="url(#linearGradient-42)" id="矩形备份-6"></polygon>
+                <polygon points="492.5 224.479495 504 219.979495 504 552.479495 492.5 556.979495" fill="url(#linearGradient-43)" id="矩形"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
